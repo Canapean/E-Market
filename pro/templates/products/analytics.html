@@ -1,0 +1,25 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Аналитика по товару {{ product_an.name }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+        <form action="" method="post">
+      <div class="modal-body">
+          <p>Цена: {{ product_an.price }}</p>
+        <p>Описание: {{ product_an.description }}</p>
+        <p>Категория: {{ product_an.category.title }}</p>
+        <p>Добавлений в корзину: {{ product_an.additions }}</p>
+      </div>
+      <div class="modal-footer">
+        <a href="{% url 'home' %}" type="button" class="btn btn-primary">В каталог</a>
+      </div>
+        </form>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,60 @@
+{% extends 'main.html' %}
+{% load mptt_tags %}
+{% block content %}
+<div class="card mb-3">
+	<div class="row">
+		<div class="col-15">
+			<img src="{{ product.thumbnail.url }}" class="card-img-top" alt="{{ product.title }}" />
+		</div>
+		<div class="col-8">
+			<div class="d-flex justify-content-between align-items-center">
+            	{% if product.id|stringformat:"s" in request.session.cart %}
+					<form action="{% url 'remove_from_cart' product.id %}" method="post">
+						{% csrf_token %}
+						<button type="submit" class="btn btn-outline-danger">Удалить</button>
+					</form>
+				{% else %}
+				<form action="{% url 'add_to_cart' product.id %}" method="post">
+					{% csrf_token %}
+					<button type="submit" class="btn btn-outline-warning">В корзину</button>
+				</form>
+				{% endif %}
+            </div>
+			<div class="card-body">
+				<h1>{{ product.title }}</h1>
+				<div class="card-body">
+					<p class="card-text">{{ product.description }}</p>
+				</div>
+				<p class="card-text">Цена: {{ product.price }}</p>
+				Категория: <a href="{% url 'products_by_category' product.category.id %}">{{ product.category.title }}</a> / Продавец: {{ product.seller.username }} / <small>{{ product.time_create }}</small>
+			</div>
+			<div class="d-flex justify-content-between align-items-center">
+            	{% if request.user.is_superuser %}
+					<button type="submit" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Посмотреть аналитику</button>
+				{% endif %}
+            </div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Аналитика по товару {{ product.name }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+        <form action="" method="post">
+      <div class="modal-body">
+          <p>Цена: {{ product.price }}</p>
+        <p>Описание: {{ product.description }}</p>
+        <p>Категория: {{ product.category.title }}</p>
+        <p>Добавлений в корзину: {{ product.additions }}</p>
+      </div>
+      <div class="modal-footer">
+        <a href="{% url 'home' %}" type="button" class="btn btn-primary">В каталог</a>
+      </div>
+        </form>
+    </div>
+  </div>
+</div>
+{% endblock %}  

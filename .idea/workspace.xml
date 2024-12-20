@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3072923d-19f1-4cff-a1c4-a3d3fdc227ee" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/.idea/Market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/_trial_temp/_trial_marker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/_trial_temp/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/docker/env/.env.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/docker/redis/data/dump.rdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/avatars/2024/12/15/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/avatars/2024/12/15/logonotext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/avatars/2024/12/15/logonotext_OWaW73D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/avatars/2024/12/17/photo_2024-11-18_18-38-55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/avatars/default.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/15/2620027581.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/16/DeWatermark.ai_1726055436019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/16/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/16/portrait-smiling-nostalgic-female-student-looking-upper-lef_wrmP4ZV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/17/14572.750x0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/17/DeWatermark.ai_1726055436019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/17/DeWatermark_9J2Eglu.ai_1726055436019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/17/fedtim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/17/i.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/17/i_1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/18/14572.750x0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/18/1647357522903.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/18/fedtim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/18/igrushka_dlya_sobak_rogz_dabone_l_kostochka_iz_litoy_reziny_Iopuf6v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/18/q_1006241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/18/xiaomi-mi-10-lite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/media/images/thumbnails/2024/12/19/14572.750x0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/pro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/pro/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/pro/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/pro/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/pro/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/migrations/0002_product_additions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/products/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/system/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/includes/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/product_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/product_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/product_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/product_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/products/product_update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/src/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/email/password_reset_mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/email/password_subject_reset_mail.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/profile_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/profile_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/user_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/user_password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/user_password_set_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro/templates/system/user_register.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qP6s4yJ7vyvdQl7u8836KfdkC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests for products.tests.CartViewsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for products.tests.ProductViewsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for products.tests.ProductViewsTest.test_product_detail_view.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivani\PycharmProjects\Market" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for products.tests.ProductViewsTest.test_product_detail_view">
+    <configuration name="Python tests for products.tests.CartViewsTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Market" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;products.tests.CartViewsTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for products.tests.ProductViewsTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Market" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;products.tests.ProductViewsTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for products.tests.ProductViewsTest.test_product_detail_view" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Market" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;products.tests.ProductViewsTest.test_product_detail_view&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for products.tests.ProductViewsTest.test_product_detail_view" />
+        <item itemvalue="Python tests.Python tests for products.tests.ProductViewsTest" />
+        <item itemvalue="Python tests.Python tests for products.tests.CartViewsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3072923d-19f1-4cff-a1c4-a3d3fdc227ee" name="Changes" comment="" />
+      <created>1734552066679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734552066679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="docker-compose.yml" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+</project>
